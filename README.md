@@ -16,9 +16,8 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
-<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 </div>
 
