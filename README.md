@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### Languages
+##### ⌨️ Languages
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </div>
 
-##### Frameworks & Libraries
+##### 📚 Frameworks & Libraries
 
 <div>
   
@@ -23,9 +23,18 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
-##### Databases
+##### 🗃️ Databases
 
-##### Tools
+<div>
+
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+##### ⚒️ Tools
 
 <!--
 **anthonypulsone/anthonypulsone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
