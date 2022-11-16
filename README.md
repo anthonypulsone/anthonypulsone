@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### ⌨️ Languages
+##### Languages, Frameworks, & Tools 💻
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -21,25 +21,6 @@
   <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 </div>
 
-##### 📚 Frameworks & Libraries
-
-<div>
-  
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  
-</div>
-
-##### 🗃️ Databases
-
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon DynamoDB-20232A?style=for-the-badge&logo=react&logoColor=4053D6" />
-</div>
-
-##### ⚒️ Tools
 
 <!--
 **anthonypulsone/anthonypulsone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
