@@ -1,4 +1,7 @@
 <h1 align="center">Anthony Pulsone</h1>
+<div align="center">
+   <img src="https://img.shields.io/badge/Connect On LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 #### About Me 👩‍💻⛰️🗺️🏂
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
