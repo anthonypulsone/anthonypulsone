@@ -2,7 +2,7 @@
 
 #### About Me 👩‍💻⛰️🗺️🏂
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
-* 💡 Passionate about learning new technologies, recenelty have been expanding my skills in React, Spring Boot, and building serverless AWS applications
+* 💡 Passionate about learning new technologies, recently have been expanding my skills in React, Spring Boot, and building serverless AWS applications
 * 🤝 Always looking to collaborate, feel free to reach out to me!
 #### Languages, Frameworks, & Tools 💻📚⚒️
 <div>
