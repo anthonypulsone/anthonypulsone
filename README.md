@@ -1,4 +1,4 @@
-# Anthony Pulsone, He/Him
+# Anthony Pulsone, ## He/Him
 ## Hello there 👋
 #### 👩‍💻 About Me 
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
