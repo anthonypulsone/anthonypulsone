@@ -1,10 +1,10 @@
 # Anthony Pulsone
 ## Hello there 👋
-#### 👩‍💻 About Me 
+##### 👩‍💻 About Me 
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
 * 💡 Constantly learning new technologies, currently expanding my skills by building projects with React, Spring Boot, and AWS serverless applications!
 * 👯 Always looking to collaborate, feel free to reach out to me!
-#### Languages, Frameworks, & Tools 💻
+##### Languages, Frameworks, & Tools 💻
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
