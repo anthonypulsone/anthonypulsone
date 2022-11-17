@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there 👋 I'm Anthony Pulsone</h1>
+<h1 align="center">Anthony Pulsone</h1>
 
 #### 👩‍💻 About Me 
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
