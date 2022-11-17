@@ -1,4 +1,5 @@
 <div><p style="text-align: center;">Anthony Pulsone</p></div>
+
 ### Hello there 👋
 #### 👩‍💻 About Me 
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
