@@ -1,10 +1,9 @@
-<div><p style="text-align: center;">Anthony Pulsone</p></div>
-
-### Hello there 👋
+<h1 align="center"> Hello there 👋 I'm Anthony Pulsone</h1>
 #### 👩‍💻 About Me 
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
-* 💡 Constantly learning new technologies, currently expanding my skills by building projects with React, Spring Boot, and AWS serverless applications!
-* 👯 Always looking to collaborate, feel free to reach out to me!
+* 💡 Passionate about learning new technologies, recenelty have been expanding my skills in React, Spring Boot, and building serverless AWS applications
+* 
+* 🤝 Always looking to collaborate, feel free to reach out to me!
 #### Languages, Frameworks, & Tools 💻
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
