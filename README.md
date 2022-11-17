@@ -1,5 +1,6 @@
 <h1 align="center">Anthony Pulsone</h1>
-<a align="center" href="https://www.linkedin.com/in/anthonypulsone"><img src="https://img.shields.io/badge/Connect On LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<div align="center">
+<a  href="https://www.linkedin.com/in/anthonypulsone"><img src="https://img.shields.io/badge/Connect On LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
 
 #### About Me 👩‍💻⛰️🗺️🏂
