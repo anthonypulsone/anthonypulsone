@@ -1,4 +1,5 @@
 <h1 align="center"> Hello there 👋 I'm Anthony Pulsone</h1>
+
 #### 👩‍💻 About Me 
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
 * 💡 Passionate about learning new technologies, recenelty have been expanding my skills in React, Spring Boot, and building serverless AWS applications
