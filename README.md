@@ -1,6 +1,6 @@
 <h1 align="center">Anthony Pulsone</h1>
 <div align="center">
-<a  href="https://www.linkedin.com/in/anthonypulsone"><img src="https://img.shields.io/badge/Connect On LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a  href="https://www.linkedin.com/in/anthonypulsone"><img src="https://img.shields.io/badge/Connect On LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Email Me"><a  href="anthonyjpulsone@gmail.come"><img src="https://img.shields.io/badge/Email Me-pink?style=for-the-badge&" alt="LinkedIn Badge"></a>
 </div>
 
 #### About Me 👩‍💻⛰️🗺️🏂
