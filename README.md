@@ -1,6 +1,12 @@
-### Hi there 👋
-
-##### Languages, Frameworks, & Tools 💻
+# Anthony Pulsone, He/Him
+## Hello there 👋
+#### 👩‍💻 About Me 
+* ℹ️ I am a full stack developer from North Carolina 🇺🇸
+* Hobbies include programming, traveling, traveling, and snowboarding 🏂
+* 💡 Constantly learning new technologies, currently expanding my skills by building projects with React, Spring Boot, and AWS serverless applications!
+* 🐣 Interested in Junior Developer roles, feel 
+* 👯 Always looking to collaborate on interesting projects
+#### Languages, Frameworks, & Tools 💻
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
