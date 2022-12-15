@@ -4,7 +4,7 @@
 <a href="mailto:anthonyjpulsone@gmail.com"><img src="https://img.shields.io/badge/Email Me-EA4335?style=for-the-badge&" alt="Email Badge"></a>
 </div>
 
-#### About Me 👩‍💻⛰️🗺️🏂
+#### About Me 👨🏽‍💻⛰️🗺️🏂
 * ℹ️ I am a full stack developer from North Carolina 🇺🇸
 * 💡 Passionate about learning new technologies, recently I have been expanding my skills in React, Spring Boot, and building serverless applications
 * 🤝 Always looking to collaborate, feel free to reach out to me!
